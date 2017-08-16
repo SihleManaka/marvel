@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HelloEJB_WebService">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/HelloEJB_WebService/build/classes"/>
+        <property name="ClientProject" value="HelloEJB_WebServiceClient"/>
+        <property name="ClientJARURI" value="HelloEJB_WebServiceClient.jar"/>
+    </wb-module>
+</project-modules>
