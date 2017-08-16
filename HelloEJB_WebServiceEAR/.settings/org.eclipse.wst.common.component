@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HelloEJB_WebServiceEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="HelloEJB_WebService.jar" deploy-path="/" handle="module:/resource/HelloEJB_WebService/HelloEJB_WebService">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="HelloEJB_WebServiceClient.jar" deploy-path="/" handle="module:/resource/HelloEJB_WebServiceClient/HelloEJB_WebServiceClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
